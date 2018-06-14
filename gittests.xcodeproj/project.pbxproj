@@ -22,6 +22,9 @@
 		A9DF722B20D2CC0700D767BE /* wkdhkwqhd.m in Sources */ = {isa = PBXBuildFile; fileRef = A9DF722A20D2CC0700D767BE /* wkdhkwqhd.m */; };
 		A9DF722E20D2CCCB00D767BE /* MyScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = A9DF722D20D2CCCB00D767BE /* MyScene.sks */; };
 		A9DF723020D2CCD500D767BE /* MyParticle.sks in Resources */ = {isa = PBXBuildFile; fileRef = A9DF722F20D2CCD500D767BE /* MyParticle.sks */; };
+		A9DF723320D2CE3D00D767BE /* spark.png in Resources */ = {isa = PBXBuildFile; fileRef = A9DF723120D2CE3D00D767BE /* spark.png */; };
+		A9DF723420D2CE3D00D767BE /* SceneKit Particle System.scnp in Resources */ = {isa = PBXBuildFile; fileRef = A9DF723220D2CE3D00D767BE /* SceneKit Particle System.scnp */; };
+		A9DF723620D2CE4700D767BE /* SceneKit Scene.scn in Resources */ = {isa = PBXBuildFile; fileRef = A9DF723520D2CE4700D767BE /* SceneKit Scene.scn */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -68,6 +71,9 @@
 		A9DF722C20D2CC0C00D767BE /* Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Header.h; sourceTree = "<group>"; };
 		A9DF722D20D2CCCB00D767BE /* MyScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = MyScene.sks; sourceTree = "<group>"; };
 		A9DF722F20D2CCD500D767BE /* MyParticle.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = MyParticle.sks; sourceTree = "<group>"; };
+		A9DF723120D2CE3D00D767BE /* spark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = spark.png; sourceTree = "<group>"; };
+		A9DF723220D2CE3D00D767BE /* SceneKit Particle System.scnp */ = {isa = PBXFileReference; lastKnownFileType = file.scp; path = "SceneKit Particle System.scnp"; sourceTree = "<group>"; };
+		A9DF723520D2CE4700D767BE /* SceneKit Scene.scn */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; path = "SceneKit Scene.scn"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -129,6 +135,9 @@
 				A9DF722D20D2CCCB00D767BE /* MyScene.sks */,
 				A9DF722620D2C85D00D767BE /* File.strings */,
 				A9DF722820D2C86700D767BE /* Stringsdict File.stringsdict */,
+				A9DF723120D2CE3D00D767BE /* spark.png */,
+				A9DF723220D2CE3D00D767BE /* SceneKit Particle System.scnp */,
+				A9DF723520D2CE4700D767BE /* SceneKit Scene.scn */,
 				A9DF722F20D2CCD500D767BE /* MyParticle.sks */,
 				A9DF722020D2C62D00D767BE /* obdViewController.h */,
 				A9DF722120D2C62D00D767BE /* obdViewController.m */,
@@ -267,7 +276,10 @@
 				A9DF71FB20D2C3D500D767BE /* LaunchScreen.storyboard in Resources */,
 				A9DF71F820D2C3D500D767BE /* Assets.xcassets in Resources */,
 				A9DF723020D2CCD500D767BE /* MyParticle.sks in Resources */,
+				A9DF723320D2CE3D00D767BE /* spark.png in Resources */,
+				A9DF723620D2CE4700D767BE /* SceneKit Scene.scn in Resources */,
 				A9DF722E20D2CCCB00D767BE /* MyScene.sks in Resources */,
+				A9DF723420D2CE3D00D767BE /* SceneKit Particle System.scnp in Resources */,
 				A9DF71F620D2C3D400D767BE /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
