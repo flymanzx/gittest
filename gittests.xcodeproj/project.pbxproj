@@ -19,6 +19,7 @@
 		A9DF722520D2C85400D767BE /* qgdgqwiugwqViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A9DF722420D2C85400D767BE /* qgdgqwiugwqViewController.m */; };
 		A9DF722720D2C85D00D767BE /* File.strings in Resources */ = {isa = PBXBuildFile; fileRef = A9DF722620D2C85D00D767BE /* File.strings */; };
 		A9DF722920D2C86700D767BE /* Stringsdict File.stringsdict in Resources */ = {isa = PBXBuildFile; fileRef = A9DF722820D2C86700D767BE /* Stringsdict File.stringsdict */; };
+		A9DF722B20D2CC0700D767BE /* wkdhkwqhd.m in Sources */ = {isa = PBXBuildFile; fileRef = A9DF722A20D2CC0700D767BE /* wkdhkwqhd.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,6 +62,8 @@
 		A9DF722420D2C85400D767BE /* qgdgqwiugwqViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = qgdgqwiugwqViewController.m; sourceTree = "<group>"; };
 		A9DF722620D2C85D00D767BE /* File.strings */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; path = File.strings; sourceTree = "<group>"; };
 		A9DF722820D2C86700D767BE /* Stringsdict File.stringsdict */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; path = "Stringsdict File.stringsdict"; sourceTree = "<group>"; };
+		A9DF722A20D2CC0700D767BE /* wkdhkwqhd.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = wkdhkwqhd.m; sourceTree = "<group>"; };
+		A9DF722C20D2CC0C00D767BE /* Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Header.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +120,8 @@
 				A9DF71F220D2C3D400D767BE /* ViewController.m */,
 				A9DF722320D2C85400D767BE /* qgdgqwiugwqViewController.h */,
 				A9DF722420D2C85400D767BE /* qgdgqwiugwqViewController.m */,
+				A9DF722A20D2CC0700D767BE /* wkdhkwqhd.m */,
+				A9DF722C20D2CC0C00D767BE /* Header.h */,
 				A9DF722620D2C85D00D767BE /* File.strings */,
 				A9DF722820D2C86700D767BE /* Stringsdict File.stringsdict */,
 				A9DF722020D2C62D00D767BE /* obdViewController.h */,
@@ -293,6 +298,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A9DF720820D2C3D500D767BE /* gittestsTests.m in Sources */,
+				A9DF722B20D2CC0700D767BE /* wkdhkwqhd.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
